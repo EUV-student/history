@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Medienagentur Geschichte"
+  image: Minard.png
+  cookie-consent: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Aktuelles.qmd
+      - Fernsehen.qmd
+      - Hoerfunk.qmd
+      - Kontakt.qmd
+    background: "light"
+  
+  page-footer:
+    left: "&copy; CC-By Openscapes, 2022"
+    right: 
+      - href: Datenschutz.qmd
+      - href: Impressum.qmd
+    
+  sidebar:
+    title: "Dr. Tillmann Bendikowski"
+    subtitle: "Dr. Tillmann Bendikowski ist als Leiter der Medienagentur Geschichte ihr erster Ansprechpartner für alle Fragen."
+    logo: "Images/FM3_3911.jpg"
+    pinned: true
+    align: center
+    header: "Dr. Tillmann Bendikowski"
+    footer: "Leiter der Medienagentur Geschichte und erster Ansprechpartner für alle Fragen."
+    
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: false
+    title-block-banner: "Images/aviation.png"
+    title-block-style: default
+    title-block-categories: false
+    title-block-banner-color: body
+    
+editor: visual
+
