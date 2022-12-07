@@ -23,8 +23,6 @@ website:
       - href: Impressum.qmd
     
   sidebar:
-    title: "Dr. Tillmann Bendikowski"
-    subtitle: "Dr. Tillmann Bendikowski ist als Leiter der Medienagentur Geschichte ihr erster Ansprechpartner für alle Fragen."
     logo: "Images/FM3_3911.jpg"
     pinned: true
     align: center
