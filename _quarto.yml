@@ -17,17 +17,10 @@ website:
     background: "light"
   
   page-footer:
-    left: "&copy; CC-By Openscapes, 2022"
+    left: "2022"
     right: 
       - href: Datenschutz.qmd
       - href: Impressum.qmd
-    
-  sidebar:
-    logo: "Images/FM3_3911.jpg"
-    pinned: true
-    align: center
-    header: "Dr. Tillmann Bendikowski"
-    footer: "Leiter der Medienagentur Geschichte und erster Ansprechpartner für alle Fragen."
     
 format:
   html:
