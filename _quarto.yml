@@ -15,7 +15,14 @@ website:
       - Hoerfunk.qmd
       - Kontakt.qmd
     background: "light"
-  
+ 
+  sidebar:
+    logo: "Images/FM3_3911.jpg"
+    pinned: true
+    align: center
+    header: "Dr. Tillmann Bendikowski"
+    footer: "Leiter der Medienagentur Geschichte und erster Ansprechpartner für alle Fragen."
+    
   page-footer:
     left: "2022"
     right: 
