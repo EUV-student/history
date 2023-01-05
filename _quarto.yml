@@ -4,7 +4,6 @@ project:
   
 website:
   title: "Medienagentur Geschichte"
-  image: Minard.png
   cookie-consent: true
   navbar:
     left:
@@ -34,7 +33,7 @@ format:
     theme: simplex
     css: styles.css
     toc: false
-    title-block-banner: "Images/aviation.png"
+    title-block-banner: "Images/banner_books_wide.png"
     title-block-style: default
     title-block-categories: false
     title-block-banner-color: body
