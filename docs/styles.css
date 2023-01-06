@@ -33,7 +33,7 @@ body, html {
   opacity: 0 !important;
 }
 
-.quarto-title-block-banner {
+.quarto-title-banner {
   width:100%;
   height:auto;
 }
