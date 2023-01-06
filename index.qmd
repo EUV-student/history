@@ -7,9 +7,9 @@ Die Vergangenheit schweigt -- nichts spricht für sich selbst. Geschichte muss z
 Diese Erzählung findet unterschiedliche Formen: Einschlägige Sachbücher für ein breites Publikum ebenso wie historische Kinderbücher, zeitgemäße Ausstellungen, Hörfunk-Reportagen, Beiträge für Printmedien, Vorträge und Moderationen. Geschichtswissenschaftliche Kompetenz und journalistische Erfahrung sind dabei der Schlüssel zur erfolgreichen Erzählung.
 
 <center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Q-LEWZL1RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div class="videowrapper">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/-Q-LEWZL1RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
-
+</div>
 </center>
