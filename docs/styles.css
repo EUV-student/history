@@ -27,3 +27,15 @@ body, html {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+/* Make title invisible */
+.quarto-title > h1.title {
+  opacity: 0 !important;
+}
+
+.quarto-title-block-banner {
+  width:100%;
+  height:auto;
+}
+
+
